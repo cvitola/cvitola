@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Cristian and I'm front-end developer :rocket: !!
+I :hearts: create sites and apps.
+I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
 <!--
 **cvitola/cvitola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
