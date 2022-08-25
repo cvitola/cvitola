@@ -3,7 +3,7 @@
 
 I :hearts: create sites and apps.
 I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
-## My Skills :hammer: & knowledge :construction_worker:
+## My Skills :hammer: & Knowledge :construction_worker:
 ![image](https://user-images.githubusercontent.com/52256017/186737816-e53a25d7-ff6e-4cf9-9493-9bda6aeb2455.png)
 
 <!--
