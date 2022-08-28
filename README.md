@@ -4,7 +4,8 @@
 I :hearts: create sites and apps.
 I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
 ## My Skills :hammer: & Knowledge :construction_worker:
-![image](https://user-images.githubusercontent.com/52256017/186737816-e53a25d7-ff6e-4cf9-9493-9bda6aeb2455.png)
+![image](https://user-images.githubusercontent.com/52256017/187055119-74dadbbf-5fed-446e-96b2-fcbc04ff9502.png)
+
 
 <!--
 **cvitola/cvitola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
