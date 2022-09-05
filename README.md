@@ -17,13 +17,19 @@ URL: https://weather-nsecuqwhz-cvitola.vercel.app/
 Repo: https://github.com/cvitola/weather-api
 
 ### 💲 Mis Gastos
+
 Details: this project have a backend create with Node, Express & MongoDB and a frontend create with React. You can register, login and generate your records about Spends. The backend was deployed in Heroku and the frontend in Vercel.
+
 URL: https://frontend-gastos.vercel.app/
+
 Repos: https://github.com/cvitola/frontend-gastos & https://github.com/cvitola/backend-gastos
 
 ### ✨PokemonYA - Store
+
 Details: this project consume an POKEAPI, you can "buy" the pokemons in the store. It was created with React.js and deployed in Vercel.
+
 URL: https://pedimonya-reactjs.vercel.app/home
+
 Repo: https://github.com/cvitola/pedimonya-reactjs
 
 
