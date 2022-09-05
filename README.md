@@ -6,7 +6,7 @@ I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
 ## My Skills :hammer: & Knowledge :construction_worker:
 ![image](https://user-images.githubusercontent.com/52256017/187055119-74dadbbf-5fed-446e-96b2-fcbc04ff9502.png)
 
-## Here you can found a little projects
+## Here you can find some small projects 😄
 
 ### ⚡ Clima en vivo 2.0
 
