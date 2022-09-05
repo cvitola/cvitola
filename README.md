@@ -8,9 +8,12 @@ I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
 
 ## Here you can found a little projects
 
-Clima en vivo 2.0
+⚡ Clima en vivo 2.0
+
 Details: this project consume an API from Servicio Meteorogico Nacional Argentino. You can search your city and see the actually conditios. Was created with React.js and deployed in Vercel.
+
 URL: https://weather-nsecuqwhz-cvitola.vercel.app/
+
 Repo: https://github.com/cvitola/weather-api
 
 Mis Gastos
