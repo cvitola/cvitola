@@ -4,7 +4,9 @@
 I :hearts: create sites and apps.
 I work with differents tecnologies for example HTML CSS JS React NodeJS MongoDB
 ## My Skills :hammer: & Knowledge :construction_worker:
-![image](https://user-images.githubusercontent.com/52256017/187055119-74dadbbf-5fed-446e-96b2-fcbc04ff9502.png)
+HTML,CSS,JS,React
+Node.js, MySQL,SQLServer,MongoDB
+Jira, Kanban, Trello
 
 ## Here you can find some small projects 😄
 
