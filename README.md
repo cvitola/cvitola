@@ -26,15 +26,6 @@ URL: https://frontend-gastos.vercel.app/
 
 Repos: https://github.com/cvitola/frontend-gastos & https://github.com/cvitola/backend-gastos
 
-### ✨PokemonYA - Store
-
-Details: this project consume an POKEAPI, you can "buy" the pokemons in the store. It was created with React.js and deployed in Vercel.
-
-URL: https://pedimonya-reactjs.vercel.app/home
-
-Repo: https://github.com/cvitola/pedimonya-reactjs
-
-
 <!--
 **cvitola/cvitola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
